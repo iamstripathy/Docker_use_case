@@ -1,4 +1,4 @@
 # Docker_use_case
-# Flask Redis App
+Flask Redis App
 
-## Setup
+Setup
